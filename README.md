@@ -1,3 +1,3 @@
 # SaidPiece-Project
 
-Full Stack Developer:- Guru Wangchuk
+Full Stack Developer:- Guru 
